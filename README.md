@@ -6,9 +6,9 @@ Provide a brief description of your project here. What does it do? What problem 
 
 ## Technology Stack
 
-- Spring Framework: Describe briefly the role of Spring Framework in your project and how it is used.
-- Vue.js: Describe briefly the role of Vue.js in your project and how it is used.
-- Docker: Describe briefly the role of Docker in your project and how it is used.
+- Spring Framework: Used for the backend. Java-based open-source framework, provides a comprehensive set of tools and APIs for testing, debugging, and deploying applications.
+- Vue.js: Used for the frontend. Open-source JavaScript framework
+- Docker: Used for frontend and backend. Create Docker-file and Docker-compose to simplify the deployment and management of applications in a containerized environment.
 
 ## Getting Started
 
@@ -31,6 +31,7 @@ Provide guidelines for contributing to your project, including how to submit bug
 
 ## Authors
 
+M2 MIAGE SID - IDMC
 - Paul KELBERT
 - Leo ZANZI
 - Jean MATHIEU
@@ -39,11 +40,3 @@ Provide guidelines for contributing to your project, including how to submit bug
 - Loïc NOSS
 - Olivia WEINGARTNER
 - Ghost of Ali EL HSSINI (joke)
-
-## License
-
-Specify the license for your project.
-
-## Acknowledgments
-
-List any acknowledgments or resources that were used in creating your project.
