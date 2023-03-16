@@ -1,0 +1,6 @@
+[submodule "cma-back-application"]
+	path = cma-back-application
+	url = https://github.com/Benv547/cma-back-application.git
+[submodule "cma-frontend-application"]
+	path = cma-frontend-application
+	url = https://github.com/lnoss/cma-frontend-application.git
