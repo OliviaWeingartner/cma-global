@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Provide a brief description of your project here. What does it do? What problem does it solve? Who is it for?
+This project is a university project developed as part of our course on distributed application architecture based on scripts, supervised by SANDU Ionut-Mihai at IDMC as part of the M2 MIAGE SID program.
 
 ## Technology Stack
 
@@ -13,21 +13,17 @@ Provide a brief description of your project here. What does it do? What problem 
 ## Getting Started
 
 ### Prerequisites
-List any prerequisites that must be installed before the project can be run.
+All you need to launch the project is to have Docker.
 
 ### Installation
-Provide step-by-step instructions on how to install and run your project.
+- None for the moment : TODO
 
 ### Usage
-Provide instructions on how to use your project, including any relevant commands or inputs.
+TODO
 
 ## Deployment
 
-Describe the deployment process for your project, including any relevant tools or services used.
-
-## Contributing
-
-Provide guidelines for contributing to your project, including how to submit bug reports or feature requests.
+TODO
 
 ## Authors
 
@@ -40,3 +36,4 @@ M2 MIAGE SID - IDMC
 - Loïc NOSS
 - Olivia WEINGARTNER
 - Ghost of Ali EL HSSINI (joke)
+- Ionut-Mihai SANDU
