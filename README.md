@@ -31,7 +31,14 @@ Provide guidelines for contributing to your project, including how to submit bug
 
 ## Authors
 
-List the authors of the project, along with any relevant contact information.
+- Paul KELBERT
+- Leo ZANZI
+- Jean MATHIEU
+- Tom SIGNER
+- Benjamin VIGNOT
+- Loïc NOSS
+- Olivia WEINGARTNER
+- Ghost of Ali EL HSSINI (joke)
 
 ## License
 
