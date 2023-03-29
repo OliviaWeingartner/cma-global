@@ -20,4 +20,3 @@ services:
 networks:
   cma-network:
     driver: bridge
-   
