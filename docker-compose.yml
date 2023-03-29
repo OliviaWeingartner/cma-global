@@ -1,0 +1,22 @@
+services:
+  front-end:
+    container_name: cma-frontend-app
+    build: ./cma-frontend-application
+    ports:
+      - "9000:9000"
+    depends_on:
+      - back-end
+    networks:
+      - cma-network
+
+  back-end:
+    container_name: cma-backend-app
+    build: ./cma-back-application
+    ports:
+      - "3000:3000"
+    networks:
+      - cma-network
+
+networks:
+  cma-network:
+    driver: bridge
