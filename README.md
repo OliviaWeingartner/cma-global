@@ -70,8 +70,13 @@ All you need to launch the project is to have Docker.
      ```sh
     git clone --recurse-submodules git@github.com:OliviaWeingartner/cma-global.git
     ```
-   
-2. **Launch** the project
+    
+2. **Update** submodules
+    ```sh
+    git submodule update --remote
+    ```
+
+3. **Launch** the project
    ```sh
    docker-compose up
    ```
